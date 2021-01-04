@@ -1,0 +1,5 @@
+*.csv
+.vscode
+bs4
+env
+filesProg
